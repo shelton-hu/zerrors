@@ -1,0 +1,16 @@
+# execulable file
+*.exe
+main
+# go module file
+go.sum
+# macOS system file
+.DS_Store
+# ide file
+.idea
+.vscode
+.prettierrc
+# deploy file
+.env
+# folder
+/vendor
+/tmp
